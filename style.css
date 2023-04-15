@@ -1,5 +1,5 @@
 header{
-    background-color: rgb(6, 153, 3);
+    background-color: black;
     color: rgb(255, 255, 255);
     display:flex;
 }
@@ -17,14 +17,20 @@ header{
     margin: 0 0 0 200px;  
 }
 
-.imagem-matI{
+.imagem-matII{
     width: 20%;
     height: 20%;
-    margin: 0 0 0 1080px;  
+    margin: 0 0 0 1066px;
 }
 
 .turma2B{
     background-color: rgb(230, 9, 9);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.turma3A{
+    background-color: rgb(6, 153, 3);
     color: rgb(255, 255, 255);
     font-size: 20px;
 }
