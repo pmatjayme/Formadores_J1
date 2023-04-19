@@ -1,3 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: sans-serif;
+}
+
 header{
     background-color: black;
     color: rgb(255, 255, 255);
@@ -20,7 +29,7 @@ header{
 .imagem-matII{
     width: 20%;
     height: 20%;
-    margin: 0 0 0 1066px;
+    margin: 0 0 0 1079px;
 }
 
 .turma2B{
@@ -31,6 +40,24 @@ header{
 
 .turma3A{
     background-color: rgb(6, 153, 3);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.imagem-mat3A{
+    width: 20%;
+    height: 20%;
+    margin: 0 0 0 1079px;
+}
+
+.imagem-mat3B{
+    width: 20%;
+    height: 20%;
+    margin: 0 0 0 1079px;
+}
+
+.turma3B{
+    background-color: rgb(31, 3, 153);
     color: rgb(255, 255, 255);
     font-size: 20px;
 }
